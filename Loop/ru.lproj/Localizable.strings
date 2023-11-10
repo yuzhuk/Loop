@@ -44,7 +44,7 @@
 "%@%@ was unable to cancel your current temporary basal rate, which is higher than the new Max Basal limit you have set. This may result in higher insulin delivery than desired.\n\nConsider suspending insulin delivery manually and then immediately resuming to enact basal delivery with the new limit in place." = "%1$@%2$@ не смог отменить вашу текущую   ВБС, которая превышает установленный вами новый предел максимальной ВБС. Это может привести к   большему количеству подаваемого инсулина, чем хотелось бы.\n\nРассмотрите возможность приостановить введение инсулина вручную, а затем немедленно возобновить введение базального инсулина с новым установленным лимитом.";
 
 /* Adds a full-stop to a statement (1: statement, 2: full stop character) */
-"%1@%2@" = "%1$@ %2$@";
+"%1@%2@" = "%1$@%2$@";
 
 /* Format string for glucose target range. (1: Min target)(2: Max target)(3: glucose unit) */
 "%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
